@@ -49,5 +49,8 @@
 - **溯时末生**
     - [纪年历](?file=05-衔光趋尘/02-溯时末生/01-纪年历 "纪年历")
     - [Legend](?file=05-衔光趋尘/02-溯时末生/02-Legend "Legend")
-- **Anecdote**
-    - [Anecdote](?file=05-衔光趋尘/03-Anecdote/01-Anecdote "Anecdote")
+- **03**
+    - [Anecdote](?file=05-衔光趋尘/03-03/01-Anecdote "Anecdote")
+- **04**
+    - [纪年历](?file=05-衔光趋尘/04-04/01-纪年历 "纪年历")
+    - [04](?file=05-衔光趋尘/04-04/02-04 "04")
